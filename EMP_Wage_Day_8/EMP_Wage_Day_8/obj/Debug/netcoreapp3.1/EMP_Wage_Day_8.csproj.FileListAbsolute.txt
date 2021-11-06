@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\bin\Debug\netcoreapp3.1\EMP_Wage_Day_8.exe
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\bin\Debug\netcoreapp3.1\EMP_Wage_Day_8.deps.json
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\bin\Debug\netcoreapp3.1\EMP_Wage_Day_8.runtimeconfig.json
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\bin\Debug\netcoreapp3.1\EMP_Wage_Day_8.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\bin\Debug\netcoreapp3.1\EMP_Wage_Day_8.dll
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\bin\Debug\netcoreapp3.1\EMP_Wage_Day_8.pdb
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\obj\Debug\netcoreapp3.1\EMP_Wage_Day_8.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\obj\Debug\netcoreapp3.1\EMP_Wage_Day_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\obj\Debug\netcoreapp3.1\EMP_Wage_Day_8.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\obj\Debug\netcoreapp3.1\EMP_Wage_Day_8.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\obj\Debug\netcoreapp3.1\EMP_Wage_Day_8.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\obj\Debug\netcoreapp3.1\EMP_Wage_Day_8.dll
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\obj\Debug\netcoreapp3.1\EMP_Wage_Day_8.pdb
+C:\Users\Ankush\Desktop\Day8\EMP_Wage_Day_8\EMP_Wage_Day_8\obj\Debug\netcoreapp3.1\EMP_Wage_Day_8.genruntimeconfig.cache
